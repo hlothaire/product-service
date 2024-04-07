@@ -1,10 +1,10 @@
-package com.microservies.orderservice.service;
+package com.microservices.orderservice.service;
 
-import com.microservies.orderservice.dto.OrderLineItemsDto;
-import com.microservies.orderservice.dto.OrderRequest;
-import com.microservies.orderservice.model.Order;
-import com.microservies.orderservice.model.OrderLineItems;
-import com.microservies.orderservice.repository.OrderRepository;
+import com.microservices.orderservice.dto.OrderLineItemsDto;
+import com.microservices.orderservice.dto.OrderRequest;
+import com.microservices.orderservice.model.Order;
+import com.microservices.orderservice.model.OrderLineItems;
+import com.microservices.orderservice.repository.OrderRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
