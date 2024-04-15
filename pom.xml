@@ -13,6 +13,7 @@
     <artifactId>micro-services</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>micro-services</name>
+    <packaging>pom</packaging>
     <modules>
         <module>order-service</module>
         <module>product-service</module>
